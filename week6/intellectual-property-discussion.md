@@ -77,7 +77,7 @@ Break class into **three groups**. Each group addresses one topic and prepares t
 5. What policy best protects creators while preserving access for students and the public?
 
 **Deliverable:**
-- A one-page “Fair Use Boundary Guide” with:
+- A “Fair Use Boundary Guide” with:
   - 3 principles for ethical reuse,
   - 2 examples that should be allowed,
   - 2 examples that should require permission.
