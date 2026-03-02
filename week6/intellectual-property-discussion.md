@@ -123,6 +123,14 @@ Break class into **three groups**. Each group addresses one topic and prepares t
 - Where should policy draw firm limits on corporate control of essential goods (media, software, seeds, medicine)?
 - What one IP reform should this class prioritize first?
 
+### Whole-Class Questions: Patent Trolls
+- What is a “patent troll,” and why is the term ethically and legally controversial?
+- Do non-practicing entities ever serve a legitimate purpose, such as helping small inventors enforce rights?
+- How do patent troll lawsuits affect startups, open-source developers, universities, and consumers?
+- Should legal reforms make it harder to file weak patent infringement claims? If so, which reforms seem fairest?
+- Would fee-shifting (loser pays legal fees) reduce abusive litigation, or would it also discourage legitimate claims?
+- How can policy deter exploitative patent litigation without weakening valid patent protection?
+
 ---
 
 ## 5) Exit Ticket
