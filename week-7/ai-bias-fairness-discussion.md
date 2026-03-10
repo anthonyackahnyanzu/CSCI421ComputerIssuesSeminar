@@ -7,7 +7,7 @@
 
 ---
 
-## 1) Short Opening Presentation (8–12 minutes)
+## 1) Short Opening Presentation
 
 ### A. Framing the Week
 - AI systems are now part of hiring, lending, health triage, education, policing, warfare, and everyday information access.
@@ -144,7 +144,7 @@ Public debate has highlighted tensions between AI labs and defense institutions 
 
 ---
 
-## 5) Exit Ticket (4–6 sentences)
+## 5)
 1. Which AI ethics risk feels most immediate to you, and why?
 2. Which policy safeguard seems most realistic in the next 2 years?
 3. What role should students/professionals play in shaping ethical AI governance?
