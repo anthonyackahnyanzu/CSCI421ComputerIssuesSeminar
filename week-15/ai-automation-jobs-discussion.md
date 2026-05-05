@@ -7,8 +7,6 @@
 
 ---
 
-## 1) Short Opening Presentation
-
 ### A. Framing the Week
 - AI automation is changing work in administration, customer support, logistics, software, media, education, and healthcare.
 - The ethical question is not only whether jobs disappear, but:
